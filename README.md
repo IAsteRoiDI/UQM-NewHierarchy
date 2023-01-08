@@ -44,7 +44,7 @@ A massive “pearl”-like object, which houses the Yuli, like an aquarium. From
 
 ``Pressing both buttons will transport the Yuli to the Copy, obliterating it.``
 
-### 3. Dnyarri
+### 3. Dnyarri "Fleecer"
 **Demo Video** (click the picture):
 
 [![DnyarriDemo](https://i.imgur.com/zLbpMcI.png)](https://www.youtube.com/watch?v=RLRc-Bo0vv4)
