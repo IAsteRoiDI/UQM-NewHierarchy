@@ -1,17 +1,3 @@
-bubble-sml-000.png -2 1 1 1
-bubble-sml-001.png -2 1 1 0
-bubble-sml-002.png -2 1 1 1
-bubble-sml-003.png -2 1 2 1
-bubble-sml-004.png -2 1 2 1
-bubble-sml-005.png -2 1 2 1
-bubble-sml-006.png -2 1 1 2
-bubble-sml-007.png -2 1 1 2
-bubble-sml-008.png -2 1 1 2
-bubble-sml-009.png -2 1 0 2
-bubble-sml-010.png -2 1 1 1
-bubble-sml-011.png -2 1 1 1
-bubble-sml-012.png -2 1 1 2
-bubble-sml-013.png -2 1 1 1
-bubble-sml-014.png -2 1 1 1
-bubble-sml-015.png -2 1 1 1
-
+bubble-sml-000.png -1 1 1 1
+bubble-sml-001.png 0 1 1 1
+bubble-sml-002.png 0 1 1 1
