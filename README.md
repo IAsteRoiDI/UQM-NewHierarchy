@@ -56,11 +56,29 @@ A massive “pearl”-like object, which houses the Yuli, like an aquarium. From
 ``Alt:`` High-frequency waves capable of controlling the enemy's mind.
 **YOUR ENEMY CANNOT USE ITS PRIMARY ATTACK AND CANNOT STOP ITS SHIP FROM MOVING. ALSO SLOWS THE SHIP DOWN**
 
-### 4. Voiced Outtakes of Kzer-Za and Kohr-Ah:
+### 4. Gleeg "Pathfinder"
+**Demo Video** (click the picture):
+
+[![GleegDemo](https://i.imgur.com/QplP4ps.png)](https://www.youtube.com/watch?v=zCJ3zIfR5Nw)
+
+**Ship Description**:
+
+![Gleeg](https://i.imgur.com/jyQwQ88.png)
+
+Sentient AI aliens that clone parts of themselves for use in Probes
+
+``Primary attack``: Blue/Defense Probe: Functions like Earthling Alt, low damage meant for dealing with oncoming threats, but NOT SHIPS (10 Energy)
+
+``Alt``: Red/Attack Probe: Functionally a ZapSat, focuses on ships instead (21 Energy)
+
+``Both`` (like Orz): Green/Healing Probe: Functionally Mycon alt, restoring crew after a period of time. (40 Energy)
+
+
+### 5. Voiced Outtakes of Kzer-Za and Kohr-Ah: (Worked only on old version)
 
 [![Outtakes](https://i.imgur.com/vFEP7qm.png)](https://www.youtube.com/watch?v=xts0DnoyWt0)
 
-### 5. Changes Default "Battle" theme to Marucombat while in Sa-Matra Fight:
+### 6. Changes Default "Battle" theme to Marucombat while in Sa-Matra Fight: (Worked only on old version)
 
 [![Marucombat](https://i.imgur.com/diaS8Od.png)](https://www.youtube.com/watch?v=RpzPxr5i6ZA)
 
