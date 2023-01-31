@@ -89,7 +89,7 @@ Sentient AI aliens that clone parts of themselves for use in Probes
 #### It is not open source yet
 
 ### Windows:
-  1. Download this repository
+  1. Download this repository [here!](https://github.com/IAsteRoiDI/UQM-NewHierarchy/releases/tag/1.0.4)
 
   2. Unzip it in new folder if you downloaded it as an Archive
 
