@@ -5,6 +5,8 @@ New Hierarchy is a little project related to UQM which adds new Ships and some l
 
 ## Currently What is it adding to the game:
 
+### AI OF THESE NEW SHIPS ISN'T DONE YET, SO IT'S NOT RECOMMENDED TO FIGHT WITH THEM!
+
 ### 1. Faz "Prototype"
 **Demo Video** (click the picture):
 
