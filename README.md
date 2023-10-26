@@ -1,5 +1,5 @@
-# UQM-NewHierarchy
-New Hierarchy is a little project related to UQM which adds new Ships and some little changes to the game.
+# The Ur-Quan Masters New Hierarchy
+UQM New Hierarchy is a little project related to original Ur-Quan Masters which adds new fan-made Ships to the game.
 
 ![UQMNH](https://i.imgur.com/wWWTyvw.png)
 
