@@ -76,11 +76,11 @@ Sentient AI aliens that clone parts of themselves for use in Probes
 ``Both`` (like Orz): Green/Healing Probe: Functionally Mycon alt, restoring crew after a period of time. (40 Energy)
 
 
-### 5. Voiced Outtakes of Kzer-Za and Kohr-Ah: (Worked only on old version)
+### 5. Voiced Outtakes of Kzer-Za and Kohr-Ah: (Old version)
 
 [![Outtakes](https://i.imgur.com/vFEP7qm.png)](https://www.youtube.com/watch?v=xts0DnoyWt0)
 
-### 6. Changes Default "Battle" theme to Marucombat while in Sa-Matra Fight: (Worked only on old version)
+### 6. Changes Default "Battle" theme to Marucombat while in Sa-Matra Fight: (Old version)
 
 [![Marucombat](https://i.imgur.com/diaS8Od.png)](https://www.youtube.com/watch?v=RpzPxr5i6ZA)
 
@@ -88,7 +88,7 @@ Sentient AI aliens that clone parts of themselves for use in Probes
 
 
 ## Installation:
-#### It is not open source yet
+#### It is not open-source yet
 
 ### Windows:
   1. Download this repository [here!](https://github.com/IAsteRoiDI/UQM-NewHierarchy/releases/tag/1.0.4)
