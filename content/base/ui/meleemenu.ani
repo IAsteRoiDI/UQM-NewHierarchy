@@ -27,8 +27,8 @@ meleemenu-025.png -1 0 -253 -77
 meleemenu-026.png -1 0 -253 -77
 meleemenu-027.png -1 0 0 50
 meleemenu-028.png -1 0 -2 -22
-meleemenu-029.png -1 0 -268 -217
-meleemenu-030.png -1 0 -268 -217
+meleemenu-029.png -1 0 -268 -232
+meleemenu-030.png -1 0 -268 -232
 netplay-000.png -1 0 -256 -24
 netplay-001.png -1 0 -256 -24
 netplay-002.png -1 0 -256 -167
@@ -37,3 +37,11 @@ netplay-004.png -1 0 -265 -12
 netplay-005.png -1 0 -265 -12
 netplay-004.png -1 0 -265 -200
 netplay-005.png -1 0 -265 -200
+mapmenu-000.png -1 0 -265 -215
+mapmenu-001.png -1 0 -265 -215
+mapmenu-002.png -1 0 -184 -204
+mapmenu-003.png -1 0 -184 -204
+mapmenu-004.png -1 0 -184 -204
+mapmenu-005.png -1 0 -184 -204
+mapmenu-006.png -1 0 -184 -204
+meleemenuwarning-000.png -1 0 0 0
