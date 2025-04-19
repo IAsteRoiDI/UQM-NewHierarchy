@@ -33,7 +33,7 @@ UQM New Hierarchy is a mod related to enhancing original SUPERMELEE of the game 
 
 ### Windows:
   1. Download this repository [here!](https://github.com/IAsteRoiDI/UQM-NewHierarchy/releases/download/v1.0.0/UQM-NewHierarchy-1.0.0.zip)
-
+  2. Unpack it.
   3. Run ``uqm.exe``
 
 ## Credits
