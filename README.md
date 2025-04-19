@@ -32,27 +32,28 @@ UQM New Hierarchy is a mod related to enhancing original SUPERMELEE of the game 
 ## Installation:
 
 ### Windows:
-  1. Download this repository [here!](https://github.com/IAsteRoiDI/UQM-NewHierarchy/releases/tag/1.0.4)
+  1. Download this repository [here!](https://github.com/IAsteRoiDI/UQM-NewHierarchy/releases/download/v1.0.0/UQM-NewHierarchy-1.0.0.zip)
 
   3. Run ``uqm.exe``
 
-### Linux (Unix platforms): NOT SUPPORTED YET
-
 ## Credits
 
-##### [AsteR](https://github.com/IAsteRoiDI "AsteR") — Lead Developer
-##### [DrSurgeonGuy](https://www.reddit.com/user/DrSurgeonGuy/ "DrSurgeonGuy") — Lead Designer
-##### Spectre Knight — Designer
-##### DUOLED — Designer
-##### oleo — Designer, Tester
-##### [Alpha Neuron Synergy](https://www.youtube.com/@alphaneuronsynergyans98/featured "Alpha Neuron Synergy") — Artist
-> [**Crossline**](https://www.youtube.com/watch?v=E0TTkZsct_M)
-> [**Infohazard**](https://www.youtube.com/watch?v=rHENczDrD-s)
-> [**Trance Unit**](https://www.youtube.com/watch?v=naFXZ-qP9eM)
-> [**Vibrant COLORS**](https://www.youtube.com/watch?v=2-iBi5KIzeA)
+- [**AsteR**](https://github.com/IAsteRoiDI "AsteR") — _Lead Developer_
+- [**DrSurgeonGuy**](https://www.reddit.com/user/DrSurgeonGuy/ "DrSurgeonGuy") — _Lead Designer_
+- **Spectre Knight** — _Designer_
+- **DUOLED** — _Designer_
+- **oleo** — _Designer, Tester_
+- **DrPepperProduct** — _Artist_
+- **Mothra** — _AI Tweaking_
+-  [**Alpha Neuron Synergy**](https://www.youtube.com/@alphaneuronsynergyans98/featured "Alpha Neuron Synergy") — _Artist_
 
-##### DrPepperProduct — Artist
-##### Mothra — AI Tweaking
+[_Alpha Neuron Synergy - Crossline_](https://www.youtube.com/watch?v=E0TTkZsct_M)
+
+[_Alpha Neuron Synergy - Infohazard_](https://www.youtube.com/watch?v=rHENczDrD-s)
+
+[_Alpha Neuron Synergy - Trance Unit_](https://www.youtube.com/watch?v=naFXZ-qP9eM)
+
+[_Alpha Neuron Synergy - Vibrant COLORS_](https://www.youtube.com/watch?v=2-iBi5KIzeA)
 
 ###### Also special thanks to Tarp, JHGuitarFreak, Kwayne, Albert Gurl, Kruzen
 
