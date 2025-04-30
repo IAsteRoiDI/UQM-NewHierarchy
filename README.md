@@ -8,16 +8,16 @@ UQM New Hierarchy is a mod related to enhancing original SUPERMELEE of the game 
 #### New ships:
 
   - [Black Spathi Squadron]()
-  - [Boqui “Institute”]()
-  - [Faz “Prototype"]()
-  - [Gleeg “Pathfinder”]()
+  - [Boqui “Institute”](https://free-stars-fanon.fandom.com/wiki/Boqui_Institute)
+  - [Faz “Prototype"](https://free-stars-fanon.fandom.com/wiki/Faz_Prototype)
+  - [Gleeg “Pathfinder”](https://free-stars-fanon.fandom.com/wiki/Gleeg_Pathfinder)
   - [Zoq-Fot-Pik “Interstellar Frungy League”]()
   - [Dnyarri "Fleecer"]()
-  - [Infrolens "Incinerator"]()
+  - [Infrolens "Incinerator"](https://free-stars-fanon.fandom.com/wiki/Infrolen_Incinerator)
   - [Shofixti “Lancer"]()
-  - [Ompha “Bastille”]()
-  - [Targh “Itinerary”]()
-  - [Yuli “Whelk”]()
+  - [Ompha “Bastille”](https://free-stars-fanon.fandom.com/wiki/Ompha_Bastille)
+  - [Targh “Itinerary”](https://free-stars-fanon.fandom.com/wiki/Targh_Itinerary)
+  - [Yuli “Whelk”](https://free-stars-fanon.fandom.com/wiki/Yuli_Whelk)
 
 
  > AI OF NEW SHIPS ISN'T DONE YET, SO IT'S NOT RECOMMENDED TO FIGHT AGAINST THEM!
